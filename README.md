@@ -1,6 +1,6 @@
 # TDD-project
 
-> A TDD project in this project we will implement a class with some methods, but we will do it by doing test-driven development (TDD) and write unit tests using Rspec. Developed on Ruby.
+> A TDD project in this project we will implement a class with some methods, but we will do it by doing test-driven development (TDD) and write unit tests using Rspec and developed on Ruby.
 
 ## Technologies used:
 
