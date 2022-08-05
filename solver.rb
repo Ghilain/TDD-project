@@ -10,4 +10,8 @@ class Solver
    num * factorial(num - 1) # rubocop:todo Layout/IndentationWidth
     end
   end
+
+  def reverse(str)
+    str.reverse
+  end
 end
