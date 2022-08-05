@@ -18,4 +18,10 @@ describe Solver do
       expect(Solver.new.factorial(-5)).to eq 'Please enter positive number or equal to 0!'
     end
   end
+  
+  context 'Testing Reverse method' do
+    it 'The reverse method wiil returns the given string in a reversed form as' do
+      expect(Solver.new.reverse('hello')).to eq 'olleh'
+    end
+  end
 end
